@@ -1,2 +1,4 @@
-# Primeiro Reositorio
- Primeiro Reositorio versionado git & github
+# Primeiro Repositório!
+ Primeiro Repositório versionado git & github
+
+Repositório criado durante  uma aula ao vivo!
